@@ -27,28 +27,19 @@ widget:
     attachment: 
 ---
 
-## Published or Forthcoming Journal Articles
-
-[**How Big Should Your Data Really Be? Data-Driven Newsvendor: Learning One Sample at a Time**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3878155)   
-with Omar Besbes. *Management Science* (forthcoming).
-  * First Place, RMP Jeff McGill Student Paper Award, 2021  
-  * Finalist, INFORMS George Nicholson Student Paper Competition, 2021  
-  * Finalist, APS Best Student Paper Award, 2021  
 
 
 ## Refereed Conferences
 
-[**Beyond IID: Data-Driven Decision-Making in Heterogeneous Environments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140928)  
-with Omar Besbes and Will Ma. *NeurIPS 2022*.
+[**Stochastic flows and geometric optimization on the orthogonal group**](https://proceedings.mlr.press/v119/choromanski20a.html)  
+with K. Choromanski, J. Davis, V. Likhosherstov, A. Nazaret, A. Bahamou, X. Song, M. Akarte, J. Parker-Holder, J. Bergquist, Y. Gao, A. Pacchiano, T. Sarlos, A. Weller, V. Sindhwani. *ICML 2020*.
 
 
 ## Working Papers
 
 
-**Data-Driven Newsvendor: Operating in a Heterogeneous Environment**  
-with Omar Besbes and Will Ma. Working paper.
+**On the statistical benefit of intermediate outcomes in long-term optimization**  
+with Dan Russo. Working paper.
 
 
-[**Joint Assortment and Inventory Planning for Heavy Tailed Demand**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3832909),   
-with Omar El Housni, Guillermo Gallego, Vineet Goyal, Salal Humair, Ali Sadighian, Sangjo Kim and Jingchen Wu. Under review. 
 

@@ -1,9 +1,9 @@
 ---
-title: Omar Mouchtaki
+title: David Cheikhi
 draft: false
 role: PhD Candidate
 avatar: images/profile.jpg
-bio: "email: om2316 (at) gsb (dot) columbia (dot) edu" 
+bio: "email: dc3430 (at) gsb (dot) columbia (dot) edu" 
 
 organization:
   name: Columbia University, Graduate School of Business
@@ -11,7 +11,7 @@ organization:
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:om2316@gsb.columbia.edu
+    url: mailto:dc3430@gsb.columbia.edu
 #TODO add gooogle scholar
 
 weight: 1
@@ -39,19 +39,9 @@ widget:
     attachment: 
 ---
 
-I am a fourth year PhD candidate in the [Decision, Risk and Operations Division](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) of the [Graduate School of Business](https://home.gsb.columbia.edu/) at [Columbia University](https://www.columbia.edu/). I am advised by Professor [Omar Besbes](http://www.columbia.edu/~ob2105/) and Professor [Will Ma](http://www.columbia.edu/~wm2428/). Prior to joining Columbia, I earned an MS in Applied Mathematics and Computer Science from [Ecole Polytechnique](https://www.polytechnique.edu/en) (Paris).
+I am a second year PhD candidate in the [Decision, Risk and Operations Division](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) of the [Graduate School of Business](https://home.gsb.columbia.edu/) at [Columbia University](https://www.columbia.edu/). I am advised by Professor [Dan Russo](https://djrusso.github.io). Prior to joining Columbia, I earned an MS in Computer Science from Columbia University and a BS in Applied Maths and Computer Science [Ecole Polytechnique](https://www.polytechnique.edu/en) (Paris).
 
-I am broadly interested in developing analytical tools to bridge the gap between the theory and the practice of data-driven decision-making. My current research aims at understanding the performance of algorithms in settings where one has access to a small to moderate amount of ''relevant'' data.
+I am broadly interested in .
 
 
   
-
-### Recent and Upcoming Talks
-
-- [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/indianapolis2022/), October 2022.
-- [Simons Intstitute Workshop](https://simons.berkeley.edu/workshops/datadriven-workshop1) (poster), September 2022.
-- [CFOL Workshop at ICML](hhttps://cfol-workshop.github.io/) (poster), July 2022.
-- [MSOM Conference](https://www.msom-2022.com/start/), June 2022.
-- [MSOM Supply Chain Management SIG](https://www.msom-2022.com/start/), June 2022.
-- [RMP section conference](https://www.chicagobooth.edu/events/revenue-management-and-pricing), June 2022.
-

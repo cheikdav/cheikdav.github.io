@@ -27,8 +27,14 @@ widget:
     attachment: 
 ---
 
-#### Teaching Assistant (Columbia Business School)
+#### Teaching Assistant 
 
-- EMBA Core: Operations Management. *Spring 2022*
-- MBA Core: Business Analytics. *Fall 2021*
-- MBA Elective: Business Analytics II. *Summer 2020*, *Summer 2021*
+#### Columbia Business School
+
+- MBA Core: Managerial Statistics. *Fall 2022*
+- MBA Elective: Sports Analyticcs. *Summer 2022*, *Fall 2022*
+
+#### Columbia Engineering School
+
+- Randomized Algorithms. *Fall 2019*
+- Analysis of Algorithms. *Fall 2020*
