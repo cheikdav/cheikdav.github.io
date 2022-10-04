@@ -39,9 +39,9 @@ widget:
     attachment: 
 ---
 
-I am a second year PhD candidate in the [Decision, Risk and Operations Division](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) of the [Graduate School of Business](https://home.gsb.columbia.edu/) at [Columbia University](https://www.columbia.edu/). I am advised by Professor [Dan Russo](https://djrusso.github.io). Prior to joining Columbia, I earned an MS in Computer Science from Columbia University and a BS in Applied Maths and Computer Science [Ecole Polytechnique](https://www.polytechnique.edu/en) (Paris).
+I am a second year PhD candidate in the [Decision, Risk and Operations Division](https://www8.gsb.columbia.edu/faculty-research/divisions/decision-risk-operations) of the [Graduate School of Business](https://home.gsb.columbia.edu/) at [Columbia University](https://www.columbia.edu/). I am advised by Professor [Dan Russo](https://djrusso.github.io). Prior to joining Columbia, I earned an MS in Computer Science from Columbia University and got my Bachelors in Applied Maths and Computer Science [Ecole Polytechnique](https://www.polytechnique.edu/en) (Paris).
 
-I am broadly interested in .
+I am broadly interested in Reinforcement Learning, Data Driven Decision Making and online optimization.
 
 
   

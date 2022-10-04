@@ -36,5 +36,5 @@ widget:
 
 #### Columbia Engineering School
 
-- Randomized Algorithms. *Fall 2019*
 - Analysis of Algorithms. *Fall 2020*
+- Randomized Algorithms. *Fall 2019*
