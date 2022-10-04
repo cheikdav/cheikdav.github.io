@@ -3,5 +3,5 @@ main:
     url: '#about'
     weight: 1
   - name: "CV"
-    url: "../CV_Omar_Mouchtaki.pdf"
+    url: "../CV_David_Cheikhi.pdf"
     weight: 100
