@@ -1,5 +1,5 @@
 baseURL: /
-title: Omar Mouchtaki
+title: David Cheikhi
 
 # Uncomment when not installing with Hugo Modules
 # theme: eureka
@@ -9,7 +9,7 @@ theme: wangchucheng.com/hugo-eureka
 
 paginate: 3
 copyright: >
-  &copy; 2022 Omar Mouchtaki
+  &copy; 2022 David Cheikhi
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
