@@ -12,6 +12,9 @@ social:
   - icon: envelope
     iconPack: fas
     url: mailto:dc3430@gsb.columbia.edu
+scholar:
+  - icon: images/scholar_logo.png
+    url: https://scholar.google.com/citations?user=K2JLJRYAAAAJ&hl=en
 #TODO add gooogle scholar
 
 weight: 1

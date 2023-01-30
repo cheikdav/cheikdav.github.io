@@ -38,7 +38,7 @@ with K. Choromanski, J. Davis, V. Likhosherstov, A. Nazaret, A. Bahamou, X. Song
 ## Working Papers
 
 
-**On the statistical benefit of intermediate outcomes in long-term optimization**  
+**On the statistical benefit of Temporal Difference Learning**  
 with Dan Russo. Working paper.
 
 
