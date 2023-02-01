@@ -38,7 +38,7 @@ with K. Choromanski, J. Davis, V. Likhosherstov, A. Nazaret, A. Bahamou, X. Song
 ## Working Papers
 
 
-[**On the statistical benefit of Temporal Difference Learning**](https://arxiv.org/pdf/2301.13289.pdf)
+[**On the statistical benefit of Temporal Difference Learning**](https://arxiv.org/abs/2301.13289)
 with Dan Russo. Working paper.
 
 
