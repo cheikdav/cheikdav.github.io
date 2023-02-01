@@ -15,7 +15,7 @@ social:
 scholar:
   - icon: images/scholar_logo.png
     url: https://scholar.google.com/citations?user=K2JLJRYAAAAJ&hl=en
-#TODO add gooogle scholar
+#TODO add google scholar
 
 weight: 1
 widget:

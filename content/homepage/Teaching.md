@@ -31,6 +31,7 @@ widget:
 
 #### Columbia Business School
 
+- PhD Core: Foundations of Statistical Modeling *Spring 2023*
 - MBA Core: Managerial Statistics. *Fall 2022*
 - MBA Elective: Sports Analyticcs. *Summer 2022*, *Fall 2022*
 
